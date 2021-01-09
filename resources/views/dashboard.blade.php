@@ -1,7 +1,7 @@
 @extends('layouts.admin')
  
 @section('dashboard') 
-    <div class="container-fluid">
+    <div class="container-fluid">  
 
       <!-- Breadcrumbs-->
       <ol class="breadcrumb">
